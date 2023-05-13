@@ -1,2 +1,3 @@
-# InventoryManagementSystem_Jehu
+#Jehu
+# InventoryManagementSystem
 An inventory management system for Jehu Stevenson
